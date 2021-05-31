@@ -20,7 +20,8 @@
       "file-types": [
         "ex",
         "exs"
-      ]
+      ],
+      "injection-regex": "elixir"
     }
   ]
 }
